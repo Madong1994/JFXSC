@@ -1,0 +1,10 @@
+#girdPane{
+    -fx-vgap: 12px;
+    -fx-alignment: center
+}
+#stackpane{
+    /*-fx-background-color: white;*/
+}
+#tipText{
+    -fx-text-fill: red;
+}
